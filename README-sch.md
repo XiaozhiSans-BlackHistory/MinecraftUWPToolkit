@@ -1,15 +1,15 @@
-# Minecraft UWP Toolkit
-**Minecraft UWP Toolkit** *(MCUWPTK)* is a *toolkit* for **Minecraft UWP  
-Bedrock Edition**  
+# Minecraft UWP 工具箱
+**Minecraft UWP 工具箱** *(MCUWPTK)* 是一个专为 **Minecraft UWP 基岩版** 打造的  
+*工具箱*
   
-**Language:**
-- ***English***
-- [中文(简体)](README-sch.md)
+**语言:**
+- [English](README.md)
+- ***中文(简体)***
   
-## How 2 use
+## 如何使用
 `py main.py`  
   
-## License
+## 协议
 >
 > MIT License
 >
