@@ -1,3 +1,7 @@
+# WARNING
+This project will **not update** in feature.  
+pls wait for **mcuwptools next**.
+
 # Minecraft UWP Toolkit
 **Minecraft UWP Toolkit** *(MCUWPTK)* is a *toolkit* for **Minecraft UWP  
 Bedrock Edition**  
