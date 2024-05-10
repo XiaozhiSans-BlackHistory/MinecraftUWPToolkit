@@ -1,3 +1,6 @@
+# 警告
+此项目**不会**在未来更新  
+请期待**下一代mcuwptools**
 # Minecraft UWP 工具箱
 **Minecraft UWP 工具箱** *(MCUWPTK)* 是一个专为 **Minecraft UWP 基岩版** 打造的  
 *工具箱*
